@@ -38,6 +38,6 @@
         <input type="submit" name= "submit">
     </form>
     <a href="login.php">Login</a>
-
+ <a href="http://www.freebiebitcoin.com">Earn free bitcoin</a>
 </body>
 </html>
